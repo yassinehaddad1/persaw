@@ -10,9 +10,19 @@
   color: var(--white);
   overflow: hidden;
   padding: 0 20px;
-  background: url('https://amendo.com/wp-content/uploads/2021/10/bigstock-African-Family-Watching-Tv-Mov-417110977.jpg') no-repeat center center fixed;
+  background: url('https://amendo.com/wp-content/uploads/2021/10/bigstock-African-Family-Watching-Tv-Mov-417110977.jpg') no-repeat center;
   background-size: cover;
   font-family: 'Inter', sans-serif;
+}
+
+/* Add responsive background handling for mobile */
+@media screen and (max-width: 768px) {
+  .hero-section {
+    background-attachment: scroll;
+    background-position: center;
+    height: 100vh;
+    min-height: 500px;
+  }
 }
 
 .hero-overlay {
