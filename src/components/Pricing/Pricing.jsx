@@ -32,7 +32,7 @@ const plans = [
   },
   {
     name: 'Premium',
-    price: '39.99',
+    price: '49.99',
     duration: '12 Months',
     features: [
       '4K Ultra HD Streaming',
