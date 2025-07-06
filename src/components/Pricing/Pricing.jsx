@@ -18,8 +18,8 @@ const plans = [
   },
   {
     name: 'Standard',
-    price: '24.99',
-    duration: '3 Months',
+    price: '29.99',
+    duration: '6 Months',
     popular: true,
     features: [
       '4K Ultra HD Streaming',
@@ -32,7 +32,7 @@ const plans = [
   },
   {
     name: 'Premium',
-    price: '49.99',
+    price: '59.99',
     duration: '12 Months',
     features: [
       '4K Ultra HD Streaming',
@@ -92,10 +92,10 @@ const Pricing = () => {
 
               <a
                 href={plan.name === 'Basic' 
-                  ? "https://www.paypal.com/ncp/payment/H6MTWG9Z9UQK4"
+                  ? "http://wa.me/212679550640"
                   : plan.name === 'Standard'
-                  ? "https://www.paypal.com/ncp/payment/A42B65BLZFTSG"
-                  : "https://www.paypal.com/ncp/payment/ZLM4KPZDQF9B6"}
+                  ? "http://wa.me/212679550640"
+                  : "http://wa.me/212679550640"}
                 className={`select-plan-btn ${plan.popular ? 'popular' : ''}`}
               >
                 Get Now

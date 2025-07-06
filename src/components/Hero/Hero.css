@@ -10,7 +10,7 @@
   color: var(--white);
   overflow: hidden;
   padding: 0 20px;
-  background: url('https://amendo.com/wp-content/uploads/2021/10/bigstock-African-Family-Watching-Tv-Mov-417110977.jpg') no-repeat center;
+  background: url('https://visitnj.org/sites/default/files/2025-05/Club%20World%20Cup%202025_0.jpeg') no-repeat center;
   background-size: cover;
   font-family: 'Inter', sans-serif;
 }
@@ -59,7 +59,7 @@
   letter-spacing: 0.02em;
   margin: 0;
   line-height: 1;
-  background: linear-gradient(135deg, #ff0000 5%, #cc0000 100%);
+  background: linear-gradient(135deg, #ffffff 5%, #f6ff00 70%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -110,14 +110,14 @@
 }
 
 .discover-button {
-  background: linear-gradient(135deg, #ff4b4b 0%, #ff0000 100%);
+  background: linear-gradient(135deg, #e2df0a 0%, #00000000 100%);
   color: white;
   padding-right: 2.5rem;
 }
 
 .discover-button:hover {
   transform: translateY(-2px);
-  box-shadow: 0 10px 20px rgba(255, 0, 0, 0.3);
+  box-shadow: 0 10px 20px rgba(238, 241, 3, 0.847);
 }
 
 .watch-button {

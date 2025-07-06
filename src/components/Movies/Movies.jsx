@@ -6,22 +6,22 @@ import './Movies.css';
 const movies = [
   {
     id: 1,
-    title: 'Outer Banks',
-    image: 'https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBHzItKQNfPdt2GL4LcHJy8P1sH.jpg',
+    title: 'SISU',
+    image: 'https://pbs.twimg.com/media/GvIHV-JXcAAZhVK.jpg:large',
     rating: 9.2,
     year: 2023
   },
   {
     id: 2,
     title: 'Oppenheimer',
-    image: 'https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hVjnB5FE4gBrR5rqk42qiBFgGe.jpg',
+    image: 'https://resizing.flixster.com/loBSjHPma1bgf42w9FsZYde6Ez8=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvN2M5M2VmNjAtYmY1MS00ZjNlLThkYmMtMmYyNTE3YjI3YmE5LmpwZw==',
     rating: 8.9,
     year: 2023
   },
   {
     id: 3,
     title: 'House of the Dragon',
-    image: 'https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1f2h6q5FUBN9pe0wl5iUg5bzCq.jpg',
+    image: 'https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBH50Mkcrc4m8x73CovLmY7vBx1.jpg',
     rating: 8.5,
     year: 2023
   }

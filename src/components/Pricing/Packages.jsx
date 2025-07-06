@@ -38,7 +38,7 @@ const packages = [
   },
   {
     name: 'Ultimate',
-    price: '29.99',
+    price: '59.99',
     period: 'month',
     description: 'The complete package with all premium features and content',
     features: [

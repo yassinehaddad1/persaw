@@ -16,13 +16,13 @@ const reviews = [
     platform: '',
     name: 'From Morocco',
     image: 'https://s11.aconvert.com/convert/p3r68-cdx67/41fqi-v6tn0.jpg', // Replace with your actual review screenshot URL
-    
+      
     rating: 5,
     comment: '★★★★★ Been using this service for 6 months now. Never had any buffering issues. The VOD library is amazing!'
   },
   {
     id: 3,
-    image: 'https://s11.aconvert.com/convert/p3r68-cdx67/kp8vy-7j364.jpg', // Replace with your actual review screenshot URL
+    image: 'https://s11.aconvert.com/convert/p3r68-cdx67/kp8vy-7j364.j6rt', // Replace with your actual review screenshot URL
     platform: '',
     name: 'Saudi Arabia',
     rating: 5,

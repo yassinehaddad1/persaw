@@ -8,7 +8,7 @@ const channels = [
   { id: 1, logo: 'https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png' },
   { id: 2, logo: 'https://upload.wikimedia.org/wikipedia/commons/b/bf/Shahid.net_New_Logo.png' },
   { id: 4, logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png' },
-  { id: 5, logo: 'https://i0.wp.com/www.maisonshiiba.fr/wp-content/uploads/2023/06/Bein_sport_logo.png?w=1020&ssl=1' },
+  { id: 5, logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyE-K-43FZ_16IFb9aUbFKSHYpAVmEC-jhw&s' },
   { id: 3, logo: 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg' },
   { id: 6, logo: 'https://www.pngall.com/wp-content/uploads/15/HBO-Logo-PNG-Image.png' },
   { id: 8, logo: 'https://brandlogos.net/wp-content/uploads/2022/01/amazon_prime_video-logo-brandlogo.net_.png' },
